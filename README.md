@@ -7,4 +7,4 @@ My github stats:
 
 My most used Languages:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jet-Starglaze&show_icons=true&locale=en&layout=compact" alt="Jet-Starglaze" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jet-Starglaze)](https://github.com/Jet-Starglaze/github-readme-stats)
