@@ -3,4 +3,4 @@ Yo! I'm Jet. I like coding as a hobby and i mainly use python. I have a discord 
 If you wanna reach me for whatever reason im `Jet#3425` on discord. Happy coding!
 My github stats:
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jet-Starglaze&show_icons=true)
